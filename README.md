@@ -4,7 +4,8 @@ Express Server Mechanics: Routing, Middleware, and Approaches to Testing
 
 ## Completed Assignment Links
 
-- 
+- [https://github.com/ganttArt/basic-express-server](https://github.com/ganttArt/basic-express-server)
+- [https://chrisgantt-basic-express.herokuapp.com/person?name=chris](https://chrisgantt-basic-express.herokuapp.com/person?name=chris)
 
 ## Learning Objectives
 
